@@ -2,7 +2,7 @@
 
 ### This project is about:
 
-- Rest service
+- Rest api
 - Validations
 - Handling validation exception
 - Customization error message
