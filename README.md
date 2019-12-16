@@ -16,7 +16,9 @@
 
 `$ cd Validations`
 
-`$ ./mvnw spring-boot:run`
+`$ mvn clean install`
+
+`$ java -jar target/fileName.jar`
 
 
 ## Screen
